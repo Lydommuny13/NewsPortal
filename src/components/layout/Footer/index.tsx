@@ -46,7 +46,7 @@ export function Footer() {
         {/* Copyright */}
         <div className="mt-12 pt-8 border-t dark:border-gray-700">
           <p className="text-center text-gray-600 dark:text-gray-400 text-sm">
-            © {currentYear} {language === 'km' ? 'រក្សាសិទ្ធិគ្រប់យ៉ាង' : 'All rights reserved'}
+            © {currentYear} {language === 'km' ? 'រក្សាសិទ្ធិគ្រប់យ៉ាងដោយ ថុល លីឧត្តមមុនី' : 'All rights reserved by Thol Lyudommuny​​​'}
           </p>
         </div>
       </div>
